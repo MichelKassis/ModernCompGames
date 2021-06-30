@@ -16,7 +16,5 @@ https://3dtextures.me/2018/08/13/cracked-mud-001/
 Tree Texture:
 https://jooinn.com/tree-50.html#gal_post_92652_tree-110.png
 
-
-Code Resource:
-I was really confused on how to work with data structs in unity (e.g using [System.Serializable]) so I used this maze tutorial for the maze part (same file structure but wrote code by myself)
+Growing Trees Tutorial
 https://catlikecoding.com/unity/tutorials/maze/
